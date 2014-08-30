@@ -9,10 +9,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/relax"
-        android:gravity="left"
-        android:paddingTop="15dp"
-        android:text="       Musical Meditations"
+        android:gravity="center_horizontal"
+        android:paddingTop="40dp"
+        android:text="Serenity Sounds"
         android:textColor="#3399ff"
-        android:textSize="26sp" />
+        android:textSize="28sp" />
 
 </LinearLayout>
